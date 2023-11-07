@@ -1,0 +1,16 @@
+.logo{
+    color: #53CAF0;
+    font-weight: 800;
+    font-size: 30px;
+}
+.bg-body-tertiary{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.Container{ 
+    position: relative;
+    top: -20px;
+
+}

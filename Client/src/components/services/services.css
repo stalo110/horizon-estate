@@ -1,0 +1,19 @@
+.row{
+    display: flex;
+     margin-left: 7%;
+    /* margin-right: -5%;  */
+}
+
+.col-sm-4{
+    margin-top: 50px;  
+}
+
+.h1-text{
+    text-align: center;
+    padding-top: 50px;
+}
+
+p{
+    padding: 0% 7%;
+    text-align: justify;
+}

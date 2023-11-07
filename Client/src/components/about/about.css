@@ -1,0 +1,23 @@
+.container-fluid {
+margin-top: 70px;
+padding: 0 2%;
+margin-right: 2%;
+}
+
+.col-sm-6{
+    margin-top: 50px;
+    margin-left: -15px;
+    /* padding-right: 10%; */
+}
+
+.h1-text{
+    text-align: center;
+    margin-top: -50px;
+}
+p{
+  
+}
+
+.img{
+    width: 100%;
+}
